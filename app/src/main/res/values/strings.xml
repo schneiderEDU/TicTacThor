@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacThor</string>
+    <string name="board_item">Board Item</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="image_winner">Winner Image</string>
+    <string name="has_won">%1$s has won!</string>
+</resources>
